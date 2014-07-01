@@ -12,8 +12,8 @@ To install extensions:
 3. Click _Install_!
 
 ### Screenshot
-<b>Visual Studio</b>
-![Earth Theme](https://raw.github.com/wiki/Denisov21/EarthThemeForBrackets/images/screenshot.png)
+<b>Earth Theme For Brackets</b>
+![Earth Theme](https://github.com/Denisov21/EarthThemeForBrackets/blob/master/screenshot.png)
 
 
 
