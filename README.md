@@ -11,11 +11,6 @@ To install extensions:
 2. Search for this extension
 3. Click _Install_!
 
-### Screenshot
-<b>Earth Theme For Brackets</b>
-![Earth Theme](https://github.com/Denisov21/EarthThemeForBrackets/blob/master/screenshot.png)
-
-
 
 ### Compatibility
 Brackets Sprint 38 or newer (or Adobe Edge Code Preview 2 or newer).
