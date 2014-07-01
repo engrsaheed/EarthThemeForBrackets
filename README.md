@@ -11,6 +11,11 @@ To install extensions:
 2. Search for this extension
 3. Click _Install_!
 
+### Screenshot
+<b>Visual Studio</b>
+![Earth Theme](https://raw.github.com/wiki/Denisov21/EarthThemeForBrackets/images/screenshot.png)
+
+
 
 ### Compatibility
-Brackets Sprint 40 or newer (or Adobe Edge Code Preview 2 or newer).
+Brackets Sprint 38 or newer (or Adobe Edge Code Preview 2 or newer).
