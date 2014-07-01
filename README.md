@@ -11,6 +11,7 @@ To install extensions:
 2. Search for this extension
 3. Click _Install_!
 
+### Screenshot
 ![earth](https://github.com/Denisov21/EarthThemeForBrackets/raw/master/screenshot.png)
 
 ### Compatibility
