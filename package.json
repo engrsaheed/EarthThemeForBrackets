@@ -2,7 +2,7 @@
     "title": "Earth Theme",
     "name": "earth",
     "description": "Earth Theme for Brackets",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "author": "Denisov21",
     "homepage": "https://github.com/Denisov21/EarthThemeForBrackets",
     "repository": {
@@ -10,7 +10,7 @@
         "url": "git://github.com/Denisov21/EarthThemeForBrackets.git"
     },
     "engines": {
-        "brackets": ">=0.40.0"
+        "brackets": ">=0.38.0"
     },
     "theme": "earth.css",
     "screenshot": "screenshot.png"
