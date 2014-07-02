@@ -1,6 +1,8 @@
 Earth Theme For Brackets
 =====================
 
+#This file is a Draft!
+
 How to Install
 ==============
 Go to Last Edit is an extension for [Brackets](https://github.com/adobe/brackets/), a new open-source code editor for the web.
