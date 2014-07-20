@@ -25,4 +25,4 @@ Troubleshooting
 ==========================
 1. Things look "weird"
 	1. Try hitting F5 (Save changes before doing so!).
-1. [Open an issue](https://github.com/Brackets-Themes/RubyBlue/issues) if you need personal assistance.
+1. [Open an issue](https://github.com/Denisov21/EarthThemeForBrackets/issues) if you need personal assistance.
