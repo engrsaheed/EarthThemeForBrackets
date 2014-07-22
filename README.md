@@ -12,14 +12,14 @@ This theme has been designed for Brackets 0.42. To install this theme on Bracket
 How to install in Brackets 0.42
 ==========================
 
-1. File :arrow_right: extension manager…
-2. Click the tab called "available"
-3. Type "ruby blue" in the top right search bar
-4. Click install.
+1. File :arrow_right: Extension manager…
+2. Click the tab called "Available"
+3. Type "Earth Theme For Brackets" in the top right search bar
+4. Click Install.
 5. Click Close on the pop up
-6. Click Close on the extension manager
+6. Click Close on the Extension manager
 7. View :arrow_right: Themes…
-8. Current Theme change to Ruby Blue
+8. Current Theme change to "Earth Theme For Brackets"
 
 Troubleshooting
 ==========================
